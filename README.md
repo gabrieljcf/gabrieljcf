@@ -13,11 +13,12 @@
 
 <div align="center" style="display: inline_block"><br>
     <a href="https://nodejs.org/en/" target="_blank"><img height="50em" width="40em" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /></a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img height="50em" width="40em" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img height="50em" width="40em" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></a>
     <a href="https://www.mongodb.com/" target="_blank"><img height="50em" width="40em" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" /></a>
     <a href="https://www.mysql.com/" target="_blank"><img height="50em" width="40em" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" /></a>
     <a href="https://www.w3schools.com/html/" target="_blank"><img height="50em" width="40em" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img height="50em" width="40em" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img height="50em" width="40em" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></a>
     <a href="https://pt-br.reactjs.org/" target="_blank"><img height="50em" width="40em" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></a>
     <a href="https://vuejs.org/" target="_blank"><img height="50em" width="40em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></a>
     <a href="https://nuxtjs.org/" target="_blank"><img height="50em" width="40em" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" /></a>
