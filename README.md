@@ -27,7 +27,7 @@
   
 ## 
 <div align="center">
-    <a href="www.linkedin.com/in/bruno-gabriel-nogueira-835518123" target="_blank"><img height="30em" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/bruno-gabriel-nogueira-835518123/" target="_blank"><img height="30em" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://pt.stackoverflow.com/users/278532/gabriel-nogueira" target="_blank"><img height="30em" src="https://img.shields.io/badge/stackoverflow-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
